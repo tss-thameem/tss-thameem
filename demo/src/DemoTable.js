@@ -39,6 +39,11 @@ class DemoTable extends Component{
                             mubarak
                         </td>
                         <td>Html Developer</td>
+             <tr></tr>
+                        <td>
+                            karthik
+                        </td>
+                        <td>Android Developer</td>
                     </tr>
                 </tbody>
             </table>
